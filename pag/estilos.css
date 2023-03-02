@@ -2,5 +2,8 @@ body{
     text-align: center;
     color: blue;
     border: 5px solid red;
+}
+
+div{
     background-color: aquamarine;
 }
